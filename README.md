@@ -1,11 +1,14 @@
 ## Hi, Devs!! 👋
 ### Me chamo Geraldo Aloisio !
-
 - 💻 Sou formado em Analise e desenvolvimento de Sistemas
 - 🔐 Tenho certificação em CDPA-Certified Data Privacy Auditor
 - 🔐 Atualmente estou cursando pós graduação em cibersegurança
 - 🔧trabalho como assistente de ti
 - 🚀 Iniciei no curso introdutorio para do programa ONE
+
+  <p align="center">
+  <img src="https://i.gifer.com/S0S.gif" width="350">
+</p>
   
 ### Language e tools 🖥️ 
 #### Estou aprendendo:
