@@ -4,7 +4,7 @@
 - 🔐 Tenho certificação em CDPA-Certified Data Privacy Auditor
 - 🔐 Atualmente estou cursando pós graduação em cibersegurança
 - 🔧trabalho como assistente de ti
-- 🚀 Iniciei no curso introdutorio para do programa ONE
+- 🚀 Iniciei no curso introdutório do programa ONE
 
   <p align="center">
   <img src="https://i.gifer.com/S0S.gif" width="350">
