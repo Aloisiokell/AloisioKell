@@ -2,9 +2,9 @@
 ### Me chamo Geraldo Aloisio !
 - 💻 Sou formado em Analise e desenvolvimento de Sistemas
 - 🔐 Tenho certificação em CDPA-Certified Data Privacy Auditor
-- 🔐 Atualmente estou cursando pós graduação em cibersegurança
+- 🔐 Pós graduado em Cibersegurança
 - 🔧trabalho como assistente de ti
-- 🚀 Iniciei no curso introdutório do programa ONE
+- 🚀 Sempre buscando aprender
 
   <p align="center">
   <img src="https://i.gifer.com/S0S.gif" width="350">
